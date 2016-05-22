@@ -1,4 +1,9 @@
 # DataScienceTableDemos
+
 Collection of demonstration notebooks for datascience/tables.
 
-[![Binder](Launch these notebooks in Binder)](http://mybinder.org/repo/deculler/DataScienceTableDemos)
+Click this badge 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/deculler/DataScienceTableDemos)
+to launch the notebooks in this repo.
+
+
