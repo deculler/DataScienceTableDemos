@@ -14,6 +14,14 @@ a blank notebook with the preliminaries for using tables.
 [Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/RollingDice.ipynb)
 an illustration of probability and the central limit theory using Tables.
 
+* [View](http://deculler.github.io/DataScienceTableDemos/BerkeleySalary.html) or
+[Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/BerkeleySalary.ipynb)
+a fairly comprensive data exploration study using salary data provided
+as part of City of Berkeley open data project.  It includes a substantial
+discussion of the datascience/Tables methods, most of which arise in this 
+study.
+
+
 
 
 
