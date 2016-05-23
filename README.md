@@ -21,6 +21,11 @@ as part of City of Berkeley open data project.  It includes a substantial
 discussion of the datascience/Tables methods, most of which arise in this 
 study.
 
+* [View](http://deculler.github.io/DataScienceTableDemos/Census.html) or
+[Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/Census.ipynb)
+an illustration of systematic data cleaning starting from census data
+and reaching a simple observation - not many old men around.
+
 * [View](http://deculler.github.io/DataScienceTableDemos/HealthSample.html) or
 [Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/HealthSample.ipynb)
 an exploratory study from part of the health records survey using 
@@ -38,6 +43,12 @@ bootstrapping to provide a richer understanding of the regression.
 [Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/ProbabilityBirthdaySurprise.ipynb)
 a simple illustration of probability concepts in a classic introductory
 problem with a blend of computational thinking.
+
+* [View](http://deculler.github.io/DataScienceTableDemos/Clicks.html) or
+[Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/Clicks.ipynb)
+some exploratory analysis of click stream data straight out of 
+the "Doing Data Science" book, but here in Tables, rather than R.  Way
+prettier.
 
 
 
