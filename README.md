@@ -1,6 +1,6 @@
 # DataScienceTableDemos
 
-Collection of demonstration notebooks for datascience/tables.
+A collection of demonstration notebooks for [datascience/tables](https://github.com/data-8/datascience).
 
 Click this badge 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/deculler/DataScienceTableDemos)
@@ -12,7 +12,7 @@ a blank notebook with the preliminaries for using tables.
 
 * [View](http://deculler.github.io/DataScienceTableDemos/RollingDice.html) or
 [Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/RollingDice.ipynb)
-a illustration of probability and the central limit theory using Tables.
+an illustration of probability and the central limit theory using Tables.
 
 
 
