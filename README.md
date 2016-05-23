@@ -21,6 +21,16 @@ as part of City of Berkeley open data project.  It includes a substantial
 discussion of the datascience/Tables methods, most of which arise in this 
 study.
 
+* [View](http://deculler.github.io/DataScienceTableDemos/HealthSample.html) or
+[Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/HealthSample.ipynb)
+an exploratory study from part of the health records survey using 
+public data from the [UC Michigan Institute for Social Research
+Health and Retirement Survey] (http://rsonline.isr.umich.edu). It illustrates
+a table-driven approach to data cleaning and bootstrapping.
+
+
+
+
 
 
 
