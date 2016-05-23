@@ -10,5 +10,10 @@ to launch the notebooks in this repo.
 [Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/blank.ipynb)
 a blank notebook with the preliminaries for using tables.
 
+* [View](http://deculler.github.io/DataScienceTableDemos/RollingDice.html) or
+[Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/RollingDice.ipynb)
+a illustration of probability and the central limit theory using Tables.
+
+
 
 
