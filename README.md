@@ -50,6 +50,9 @@ some exploratory analysis of click stream data straight out of
 the "Doing Data Science" book, but here in Tables, rather than R.  Way
 prettier.
 
+* [View](http://deculler.github.io/DataScienceTableDemos/DS_short_tables.html) or
+[Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/DS_short_tables.ipynb)
+
 
 
 
