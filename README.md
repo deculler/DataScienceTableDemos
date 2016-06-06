@@ -53,6 +53,10 @@ prettier.
 * [Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/FTE_Narrative.ipynb) an
 introduction to Tables as pedagogical device.
 
+[@UCB](https://data8.berkeley.edu/hub/interact?repo=data8assets&path=lec/FTE_Narrative.ipynb)
+
 * [Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/FTE_Grads.ipynb) an
 illustration of a data narrative with a more advanced use of Tables combining
 multiple data sources.
+
+[@UCB](https://data8.berkeley.edu/hub/interact?repo=data8assets&path=lec/FTE_Grads.ipynb)
