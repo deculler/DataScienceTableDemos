@@ -56,18 +56,3 @@ introduction to Tables as pedagogical device.
 * [Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/FTE_Grads.ipynb) an
 illustration of a data narrative with a more advanced use of Tables combining
 multiple data sources.
-
-* [View](http://deculler.github.io/DataScienceTableDemos/DS_short_tables.html) or
-[Launch](http://mybinder.org/repo/deculler/DataScienceTableDemos/DS_short_tables.ipynb)
-
-
-
-
-
-
-
-
-
-
-
-
